@@ -12,7 +12,7 @@ Para não ficarmos perdidos em diversas distribuições, escolhemos:
 | 18.04 LTS |LTS significa que é uma versão estável e que terá longo suporte, apesar de já ter a 20.04 LTS optamos pela versão 18.04 que está bem consolidada. |
 
 
-Clique nas nossas[ wiki pages ](https://github.com/dorathoto/LinuxUnivesp/wiki" wiki pages ")e veja como instalar o Ubuntu.
+Clique nas nossas [wiki pages](https://github.com/dorathoto/LinuxUnivesp/wiki)e veja como instalar o Ubuntu.
 
 ------------
 
