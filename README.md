@@ -16,4 +16,7 @@ Clique nas nossas[ wiki pages ](https://github.com/dorathoto/LinuxUnivesp/wiki/I
 
 ------------
 
-
+## Qual material utilizaremos?
+o arquivo LinuxEssentials.epub você pode puxar um visualizar de e-pub, usar kindle ou a ferramenta que desejar.
+Ou acessar o arquivo via web.
+[https://lcnsqr.com/curso-linux-essentials](https://lcnsqr.com/curso-linux-essentials)
