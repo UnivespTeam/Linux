@@ -8,7 +8,7 @@ Para não ficarmos perdidos em diversas distribuições, escolhemos:
 acesse nossa wiki [clique aqui](https://github.com/dorathoto/LinuxUnivesp/wiki/Qual-distribui%C3%A7%C3%A3o-vamos-usar%3F)
 
 
-Clique nas nossas [wiki pages](https://github.com/dorathoto/LinuxUnivesp/wiki)e veja como instalar o Ubuntu.
+Clique nas nossas [wiki pages](https://github.com/UnivespTeam/Linux/wiki)e veja como instalar o Ubuntu.
 
 ------------
 
