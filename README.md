@@ -5,10 +5,10 @@ Para não ficarmos perdidos em diversas distribuições, escolhemos:
 `Ubuntu SERVER 18.04 LTS`
 
 ### Porque?
-acesse nossa wiki [clique aqui](https://github.com/dorathoto/LinuxUnivesp/wiki/Qual-distribui%C3%A7%C3%A3o-vamos-usar%3F)
+acesse nossa wiki [clique aqui](https://github.com/UnivespTeam/Linux/wiki/Qual-distribui%C3%A7%C3%A3o-vamos-usar%3F)
 
 
-Clique nas nossas [wiki pages](https://github.com/UnivespTeam/Linux/wiki)e veja como instalar o Ubuntu.
+Clique nas nossas [wiki pages](https://github.com/UnivespTeam/Linux/wiki) e veja como instalar o Ubuntu.
 
 ------------
 
