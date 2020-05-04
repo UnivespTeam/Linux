@@ -10,7 +10,7 @@ Acesse nossa wiki [clique aqui](https://github.com/UnivespTeam/Linux/wiki/Qual-d
 
 ------------
 ### Dúvidas?
-Clique nas nossas [wiki pages](https://github.com/UnivespTeam/Linux/wiki/Instalando-o-Ubuntu) e veja como instalar o Ubuntu, entre outras atividades.
+Clique nas nossas [wiki pages](https://github.com/UnivespTeam/Linux/wiki) e veja como instalar o Ubuntu, entre outras atividades.
 
 ------------
 
