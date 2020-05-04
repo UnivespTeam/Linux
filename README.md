@@ -23,5 +23,5 @@ Ou acessar o arquivo via web:
 
 
 ------------
-## Semana 1
+## Semana 1 até 09/05/2020
 Acesse [esse link](https://github.com/UnivespTeam/Linux/wiki/Semana-1) e veja o conteúdo
