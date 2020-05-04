@@ -1,3 +1,6 @@
+[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-145%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/Huv7T5nB11N5ObNYMaEXx5 "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-1-yellow.svg) ![](https://img.shields.io/badge/Linguagem-C%2B%2B-orange.svg)
+
+
 # Bem vindo ao grupo de estudos do Linux.
 
 Para não ficarmos perdidos em diversas distribuições, escolhemos:
