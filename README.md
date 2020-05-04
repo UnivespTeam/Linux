@@ -20,3 +20,8 @@ o arquivo [LinuxEssentials.epub](https://github.com/UnivespTeam/Linux/blob/maste
 
 Ou acessar o arquivo via web:
 [https://lcnsqr.com/curso-linux-essentials](https://lcnsqr.com/curso-linux-essentials)
+
+
+------------
+## Semana 1
+Acesse [esse link](https://github.com/UnivespTeam/Linux/wiki/Semana-1) e veja o conteúdo
