@@ -20,6 +20,7 @@ Clique nas nossas [wiki pages](https://github.com/UnivespTeam/Linux/wiki) e veja
 ## Qual material utilizaremos?
 
 o arquivo [LinuxEssentials.epub](https://github.com/UnivespTeam/Linux/blob/master/LinuxEssentials.epub "LinuxEssentials.epub") você pode puxar um visualizar de e-pub, usar kindle ou a ferramenta que desejar.
+Ou versão [PDF](https://github.com/UnivespTeam/Linux/blob/master/LinuxEssentials.pdf)
 
 Ou acessar o arquivo via web:
 [https://lcnsqr.com/curso-linux-essentials](https://lcnsqr.com/curso-linux-essentials)
