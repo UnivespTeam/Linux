@@ -1,4 +1,4 @@
-[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-145%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/Huv7T5nB11N5ObNYMaEXx5 "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-1-yellow.svg) 
+[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-147%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/Huv7T5nB11N5ObNYMaEXx5 "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-1-yellow.svg) 
 
 
 # Bem vindo ao grupo de estudos do Linux.
