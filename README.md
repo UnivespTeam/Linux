@@ -28,4 +28,7 @@ Ou acessar o arquivo via web:
 
 ------------
 ## Semana 1 até 09/05/2020
-Acesse [esse link](https://github.com/UnivespTeam/Linux/wiki/Semana-1) e veja o conteúdo
+Acesse [esse link](https://github.com/UnivespTeam/Linux/wiki/Semana-1) e veja o conteúdo.
+
+## Semana 2 até 16/05/2020
+Acesse [esse link](https://github.com/UnivespTeam/Linux/wiki/Semana-2) e veja o conteúdo.
