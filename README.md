@@ -32,3 +32,6 @@ Acesse [esse link](https://github.com/UnivespTeam/Linux/wiki/Semana-1) e veja o 
 
 ## Semana 2 até 16/05/2020
 Acesse [esse link](https://github.com/UnivespTeam/Linux/wiki/Semana-2) e veja o conteúdo.
+
+## Semana 3 até 24/05/2020
+Acesse [esse link](https://github.com/UnivespTeam/Linux/wiki/Semana-3) e veja o conteúdo.
